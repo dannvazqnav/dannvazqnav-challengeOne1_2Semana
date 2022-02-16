@@ -11,3 +11,4 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.
 
 Se envia un saludo, espero haber realizado las funcionalidades. Agradezco cualquier feedback:)
+Página del proyecto para su visualización: https://dannvazqnav.github.io/dannvazqnav-challengeOne1_2Semana/
